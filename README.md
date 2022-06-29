@@ -1,21 +1,19 @@
-# Project-DugCar
+# Project-CarReview
 
 ## 기술 스택
-Python, Raspberry Pi
+Python
  
 ## 주제
-더그 프로젝트 일부 기능 업그레이드
-- OpenCV 자율주행 선 1개 (기존) -> 2개
-- 버저 음악 출력 -> 스피커 대사 출력
+GRU, BERT, Gensim 기반 자동차 리뷰 종합 분석 (NLP)
 
 ## 프로젝트 일정
 ### 3-4월
-- [x] 기획 
+- [x] NLP 공부 (웹 크롤링, 워드 클라우드 등)
 ### 5월
-- [x] 기술 관련 조사
-- [ ] 부품 구매
+- [x] NLP 공부
+- [x] 주제 선정
+- [x] 데이터셋 선정
 ### 6월 
-- [ ] 파이썬 코드 작성
-- [ ] 테스트
-### 7월
-- [ ] 다음 버전 추가 기능 기획
+- [x] Sentiment analysis
+- [ ] 긍정/부정 & 회사별 워드 클라우드
+- [ ] Topic modeling
