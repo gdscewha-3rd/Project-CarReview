@@ -15,5 +15,5 @@ GRU, BERT, Gensim 기반 자동차 리뷰 종합 분석 (NLP)
 - [x] 데이터셋 선정
 ### 6월 
 - [x] Sentiment analysis
-- [ ] 긍정/부정 & 회사별 워드 클라우드
-- [ ] Topic modeling
+- [x] 긍정/부정 & 회사별 워드 클라우드
+- [x] Topic modeling
